@@ -4,6 +4,7 @@ function forLoop(array){
   }
   return array;
 }
+forLoop();
 
 function whileLoop(n){
   while(n > 0){
