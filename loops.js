@@ -21,8 +21,4 @@ function doWhileLoop(array) {
   } while (array.length > -1 && maybeTrue());
     return array;
 }
-function doWhileLoop(array){
-  var i = 0;
-  do{
-  } while(array.length > 0 && i = i + 1);
-}
+
