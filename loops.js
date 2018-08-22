@@ -13,6 +13,7 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
+  var i = 0;
   do{
-  } while(array.length > 0 && incrementVariable() === false);
+  } while(array.length > 0 && i = i + 1);
 }
