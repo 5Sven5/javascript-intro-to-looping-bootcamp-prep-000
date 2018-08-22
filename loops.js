@@ -4,7 +4,6 @@ function forLoop(array){
   }
   return array;
 }
-forLoop();
 
 function whileLoop(n){
   while(n > 0){
@@ -12,4 +11,7 @@ function whileLoop(n){
   }
   return 'done';
 }
-whileLoop(10);
+
+function doWhileLoop(array){
+  
+}
